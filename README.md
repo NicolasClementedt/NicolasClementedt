@@ -1,8 +1,9 @@
 # Olá! me chamo Nicolas e sou Dev Full Stack 👋 <h1> 
 
-  https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+<img scr="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}"/>
+<img scr= "{https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white}"/>
           
-[![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasClementedt)](https://github.com/NicolasClementedt/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
