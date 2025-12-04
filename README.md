@@ -1,4 +1,4 @@
-<img scr ="https://github.com/NicolasClementedt/NicolasClementedt/blob/main/Fundo%20GitHub.png">
+<img scr ="https://github.com/NicolasClementedt/NicolasClementedt/blob/main/Fundo%20GitHub.png" alt="nome com fundo legal e cargo">
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,mysql,nestjs,nodejs,)](https://skillicons.dev)   
