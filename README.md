@@ -1,4 +1,5 @@
-# Olá! eu sou o Nicolas 👋 <h1> 
+<img scr ="https://github.com/NicolasClementedt/NicolasClementedt/blob/main/Fundo%20GitHub.png">
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,mysql,nestjs,nodejs,)](https://skillicons.dev)   
 
