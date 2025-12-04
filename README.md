@@ -5,9 +5,18 @@
 
 💻 Sou um desenvolvedor full stack em formação e aqui é onde vou mostrar meus projetos
 
-🤔 Meu objetivo profissional é  I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Meu objetivo profissional é conquistar uma vaga para trabalhar no exterior!
+
+⚡ Curiosidades
+1. Sou um cara familia, inclusive casei com meu amor de adolescência ❤️
+2. Estudo inglês desde os 11 anos 🤓
+3. Apaixonado por histórias 📖
+
+
+### Vamos conectar! <h3>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [Meu linkedin](linkedin.com/in/nicolas-clementedev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) [Meu email](nicolasfernando724@gmail.com)
+
+
