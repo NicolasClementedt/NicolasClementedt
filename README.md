@@ -4,7 +4,7 @@
 [![Nicolas's GitHub stats](https://github-readme-stats-cyan-beta-69.vercel.app/api?username=NicolasClementedt&showicons=true&theme=radical)](https://github.com/NicolasClementedt/github-readme-stats)
 
 \
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,mysql,nestjs,nodejs,)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,mysql,nestjs,nodejs,react,)](https://skillicons.dev)   
 
 \
 💻 Sou um desenvolvedor full stack em formação e aqui é onde vou mostrar meus projetos
@@ -24,7 +24,7 @@
 
 
 ### Vamos conectar! <h3>
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [Meu linkedin](www.linkedin.com/in/nicolas-clementedev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [Meu linkedin](linkedin.com/in/nicolas-clementedev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) [Meu email](nicolasfernando724@gmail.com)
