@@ -24,7 +24,7 @@
 
 
 ### Vamos conectar! <h3>
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [Meu linkedin](linkedin.com/in/nicolas-clementedev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [Meu linkedin]([linkedin.com/in/nicolas-clementedev](https://www.linkedin.com/in/nicolas-clementedev/))
 
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) [Meu email](nicolasfernando724@gmail.com)
