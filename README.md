@@ -16,14 +16,13 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full Stack apaixonado por criar **soluções completas e escaláveis**, do frontend ao backend. Especializado em transformar ideias em produtos funcionais com código limpo, performático e bem arquitetado.
+Desenvolvedor Full Stack apaixonado por criar **soluções para problemas reais**, do frontend ao backend. Especializado em transformar ideias em produtos funcionais com código limpo, performático e bem arquitetado.
 ```typescript
 const nicolas = {
   location: "São Paulo, Brasil 🇧🇷",
   role: "Full Stack Developer",
-  currentFocus: "React + TypeScript + Node.js",
-  learning: ["Node.js", "DSA", "Project Based Focus"],
-  interests: ["Fantasy books", "Calisthenics", "DevOps"],
+  currentFocus: ["CS50x + TypeScript + Project Based Focus"],
+  interests: ["Fantasy books", "Calisthenics"],
   aboutMeFact: "Read more to code better 🐛"
 };
 ```
@@ -31,10 +30,10 @@ const nicolas = {
 ### 💡 O que me motiva
 
 - ✨ Criar **soluções completas** (frontend + backend + deploy)
-- 🎯 Escrever **código limpo** e bem arquitetado
+- 🎯 Escrever códiglo bem arquitetado e **organizado**
 - 🚀 Construir produtos **escaláveis** e **performáticos**
 - ♿ Tornar a web mais **acessível** para todos
-- ☁️ Dominar **cloud** e **DevOps**
+- ☁️ Entender todos os processos 
 - 📚 **Aprender** constantemente novas tecnologias
 
 ---
@@ -123,28 +122,13 @@ const nicolas = {
 
 ---
 
-## 🎓 Jornada de Aprendizado
-
-### 📚 Foco Atual
-```javascript
-const learningPath = {
-  2026: {
-    Q1: ['Next.js 15', 'NestJS Avançado', 'AWS Services'],
-    Q2: ['Testing (Vitest + Playwright)', 'GraphQL'],
-    Q3: ['Microservices', 'Kubernetes', 'CI/CD'],
-    Q4: ['System Design', 'Contribuições Open Source']
-  }
-};
-```
-
 ### 🏆 Objetivos 2026
 
-- ✅ Dominar React + TypeScript
-- ✅ Construir APIs com Node.js + NestJS
-- 🔲 Deploy em produção com AWS
-- 🔲 Arquitetura de microserviços
-- 🔲 Cobertura de testes >80%
+- 🔲 Construir meu portfólio profissional 
 - 🔲 Contribuir para projetos open source
+- 🔲 Dominar Docker e AWS
+- 🔲 Tirar certifições Microsoft 
+
 
 ---
 
@@ -196,7 +180,6 @@ const learningPath = {
 
 ### Cloud & DevOps
 ```typescript
-☁️ Deploy em AWS (EC2, S3, Lambda)
 🐳 Containerização com Docker
 🔄 CI/CD pipelines
 📦 Gerenciamento de ambientes
